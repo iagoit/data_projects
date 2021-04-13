@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="100%" src="https://assets.kpmg/content/dam/kpmg/my/images/DnA-cover.jpg/jcr:content/renditions/original">
+    <img width="100%" src="https://raw.githubusercontent.com/iagoit/data_science/main/banner.jpg">
 </h1>
 
 # 📌 Iago Teixeira 
