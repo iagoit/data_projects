@@ -13,4 +13,4 @@
 
 ## 📊 Projetos: 
 * **Análise dos Dados do Airbnb - Vancouver, Canada:** https://bit.ly/3siW2Ui
-* **Analise de Dados Violência Rio de Janeiro:** https://bit.ly/3wVv2hl
+* **Análise de Dados Violência Rio de Janeiro:** https://bit.ly/3wVv2hl
