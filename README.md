@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="100%" src="https://raw.githubusercontent.com/iagoit/data_science/main/banner_ds.jpg">
+    <img width="100%" src="https://raw.githubusercontent.com/iagoit/data_science/main/banner_ds.png">
 </h1>
 
 # 📌 Iago Teixeira 
