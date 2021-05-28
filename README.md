@@ -12,6 +12,10 @@
 * [Medium](https://iagoitz.medium.com/)
 
 ## 📊 Projetos: 
+### Analise de dados
 * **Análise dos Dados do Airbnb - Vancouver, Canada:** https://bit.ly/3siW2Ui
 * **Análise de Dados Violência Rio de Janeiro:** https://bit.ly/3wVv2hl
 * **Panorama do Covid-19 no Mundo:** https://bit.ly/3vOgbUe
+
+### Google Data Studio
+* **Superstore Report:** https://cutt.ly/9noWhfz
