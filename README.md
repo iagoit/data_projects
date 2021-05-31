@@ -17,5 +17,10 @@
 * **Análise de Dados Violência Rio de Janeiro:** https://bit.ly/3wVv2hl
 * **Panorama do Covid-19 no Mundo:** https://bit.ly/3vOgbUe
 
+### Power BI
+* **Dashboard de Performance:** 
+* **Dashboard de Financeiro:** 
+* **Dashboard de Vendas:** 
+
 ### Google Data Studio
 * **Superstore Report:** https://cutt.ly/9noWhfz
