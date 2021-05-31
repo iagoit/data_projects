@@ -21,6 +21,7 @@
 * **Dashboard de Performance:** 
 * **Dashboard de Financeiro:** 
 * **Dashboard de Vendas:** 
+* **Dashboard de Simulação:** 
 
 ### Google Data Studio
 * **Superstore Report:** https://cutt.ly/9noWhfz
