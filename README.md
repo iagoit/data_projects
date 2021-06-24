@@ -19,6 +19,7 @@
 
 ### Power BI
 * **Dashboard de Performance:** https://cutt.ly/Dnf3Uab
+* **Dashboard Monitoramento do time de vendas:** https://cutt.ly/8n6e1CM
 
 ### Google Data Studio
 * **Superstore Report:** https://cutt.ly/9noWhfz
