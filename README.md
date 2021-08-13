@@ -3,9 +3,11 @@
 </h1>
 
 # 📌 Iago Teixeira 
-   Atualmente trabalho como Analista de Dados e estou me especializando em Ciência de Dados. Sou apaixonado e muito curioso pela área de dados e constantemente buscando novos conhecimentos. Com uma visão analítica, busco sempre entender melhor o comportamento dos dados em diferentes cenários para que possa sempre extrair "actionable insights", para ter tomadas de decisões precisas.
-    
-**Experiencia em:** Python, SQL, Power BI, Tableau, Google Data Studio, Excel, Google Sheets, Machine Learning, Google Analytics e Teste A/B
+   Sou formado em Ciência da Computação, tenho 2 anos de experiência como analista de dados e ja atuei em segmentos, como: Marketing Digital, Financeiro, Hospitalar. Atualmente atuo em Energia e Utilitários.
+
+Sou apaixonado e muito curioso pela área de dados e constantemente buscando novos conhecimentos. Utilizando a visão analítica, busco sempre entender melhor o comportamento dos dados em diferentes cenários para que possa sempre extrair "actionable insights", para ter tomadas de decisões precisas.
+
+**Experiência em:** Python, SQL, Power BI, Tableau, Google Data Studio, Excel, Google Sheets, Google Analytics, Machine Learning e Teste A/B
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/iagoteixeira)
