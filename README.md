@@ -19,6 +19,9 @@ Sou apaixonado e muito curioso pela área de dados e constantemente buscando nov
 * **Análise de Dados Violência Rio de Janeiro:** https://bit.ly/3wVv2hl
 * **Panorama do Covid-19 no Mundo:** https://bit.ly/3vOgbUe
 
+### Machine Learning
+* ** Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/3mwSYEK
+
 ### Power BI
 * **Dashboard de Performance:** https://cutt.ly/Dnf3Uab
 * **Dashboard Monitoramento do time de vendas:** https://cutt.ly/8n6e1CM
