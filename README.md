@@ -20,7 +20,7 @@ Sou apaixonado e muito curioso pela área de dados e constantemente buscando nov
 * **Panorama do Covid-19 no Mundo:** https://bit.ly/3vOgbUe
 
 ### Machine Learning
-* ** Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/3mwSYEK
+* **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/3mwSYEK
 
 ### Power BI
 * **Dashboard de Performance:** https://cutt.ly/Dnf3Uab
