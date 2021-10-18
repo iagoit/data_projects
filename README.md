@@ -18,6 +18,7 @@ Sou apaixonado e muito curioso pela área de dados e constantemente buscando nov
 * **Análise dos Dados do Airbnb - Vancouver, Canada:** https://bit.ly/3siW2Ui
 * **Análise de Dados Violência Rio de Janeiro:** https://bit.ly/3wVv2hl
 * **Panorama do Covid-19 no Mundo:** https://bit.ly/3vOgbUe
+* **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/3vpPxSN
 
 ### Machine Learning
 * **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/3mwSYEK
