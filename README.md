@@ -30,4 +30,4 @@ Sou apaixonado e muito curioso pela área de dados e constantemente buscando nov
 * **Dashboard Monitoramento Time de Vendas:** https://cutt.ly/8n6e1CM
 
 ### Outros
-* **Pandas:**https://encurtador.com.br/yGZ03
+* **Pandas:** https://encurtador.com.br/yGZ03
