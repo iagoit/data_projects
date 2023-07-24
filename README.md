@@ -28,3 +28,6 @@ Sou apaixonado e muito curioso pela área de dados e constantemente buscando nov
 ### Power BI
 * **Dashboard de Performance:** https://cutt.ly/Dnf3Uab
 * **Dashboard Monitoramento Time de Vendas:** https://cutt.ly/8n6e1CM
+
+### Outros
+* **Pandas:**https://encurtador.com.br/yGZ03
