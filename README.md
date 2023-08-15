@@ -3,9 +3,9 @@
 </h1>
 
 # 📌 Iago Teixeira 
-   Bacharel em Ciência da Computação, tenho 2 anos de experiência como analista de dados e ja atuei em segmentos, como: Marketing Digital, Financeiro e Hospitalar. Atualmente atuo em Energia e Utilitários.
+Bacharel em Ciência da Computação com sólida experiência em Python, SQL, Power BI, Google Data Studio, Tableau, Machine Learning, Storytelling, Estatística, Excel/Google Sheets, Cloud (Azure, GCP e AWS) e Teste A/B. 
 
-Sou apaixonado e muito curioso pela área de dados e constantemente buscando novos conhecimentos. Utilizando a visão analítica, busco sempre entender melhor o comportamento dos dados em diferentes cenários para que possa sempre extrair "actionable insights", para ter tomadas de decisões precisas.
+Sou apaixonado e muito curioso pela área de dados e constantemente buscando novos conhecimentos. Utilizo a visão analítica, para entender o comportamento dos dados em diferentes cenários para que possa extrair insights acionáveis, para tomadas de decisões precisas.
 
 **Experiência em:** Python, SQL, Power BI, Google Data Studio, Storytelling, Excel/Google Sheets, Google Analytics, Machine Learning e Teste A/B
 
