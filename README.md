@@ -31,3 +31,4 @@ Sou apaixonado e muito curioso pela área de dados e constantemente buscando nov
 
 ### Outros
 * **Pandas:** https://encurtador.com.br/yGZ03
+* **Python:** https://encurtador.com.br/fghrK
